@@ -303,6 +303,7 @@ h1 {
 
 #hot .product-slider .item {
   margin: 0 25px;
+  width: 200px;
 }
 
 #hot .product-slider .product {
